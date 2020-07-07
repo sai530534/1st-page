@@ -27,4 +27,21 @@ gd mrng are u all good
 
   - hi every one
   
+
   [click](https://www.google.com/)
+
+  [img](image/sai.jpeg)
+
+
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+
+| heading1 | heading 2 |
+| -------- | --------- |
+| col 1    | col 2     |
+
+-[x] u r good 
+-[] nc
+-[] gfd
