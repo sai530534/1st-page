@@ -30,7 +30,7 @@ gd mrng are u all good
 
   [click](https://www.google.com/)
 
-  [img](image/sai.jpeg)
+ ![img](image/sai.jpeg)
 
 
 | First Header  | Second Header |
@@ -42,6 +42,6 @@ gd mrng are u all good
 | -------- | --------- |
 | col 1    | col 2     |
 
--[x] u r good 
--[] nc
--[] gfd
+- [x] u r good 
+- [] nc
+- [] gfd
