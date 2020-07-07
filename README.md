@@ -43,5 +43,5 @@ gd mrng are u all good
 | col 1    | col 2     |
 
 - [x] u r good 
-- [] nc
-- [] gfd
+- [x] nc
+- [x] gfd
