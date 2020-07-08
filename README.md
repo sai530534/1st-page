@@ -42,6 +42,6 @@ gd mrng are u all good
 | -------- | --------- |
 | col 1    | col 2     |
 
-- [x] u r good 
+- [x] u r good <!-- text box-->
 - [x] nc
 - [x] gfd
