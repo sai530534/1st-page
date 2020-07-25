@@ -1,0 +1,30 @@
+{
+	"web":[{
+		"img":"1plus.jpg",
+		"brand":"one plus",
+		"model":"one plus 8",
+		"price":"40000.0",
+		"button":"CLICK ME"
+	},
+	{
+		"img":"redmi.jpg",
+		"brand":"xiomi",
+		"model":"redmi 8",
+		"price":"15000",
+		"button":"CLICK ME"
+	},
+	{
+		"img":"samsungm30.jpg",
+		"brand":"samsung",
+		"model":"m30",
+		"price":"20000",
+		"button":"CLICK ME"
+	},
+	{
+		"img":"samsungm01.jpg",
+		"brand":"samsung",
+		"model":"m01",
+		"price":"18000",
+		"button":"CLICK ME"
+	}]
+}

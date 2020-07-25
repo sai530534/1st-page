@@ -1,0 +1,19 @@
+{
+	"profile":{
+		"name":"sainath",
+		"email":"sai@gmail.com",
+		"celno":7890123425,
+		"address":"guntur",
+		"comp":"hcl",
+		"role":"trainee"
+	},
+
+	"profile2":{
+		"name":"sai",
+		"email":"sai@gmail.com",
+		"celno":7890123425,
+		"address":"guntur",
+		"comp":"hcl",
+		"role":"trainee"
+	}
+}

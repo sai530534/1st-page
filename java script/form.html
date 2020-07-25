@@ -1,0 +1,45 @@
+
+<!DOCTYPE html>
+<html>
+<head>	
+	<title>Form Change</title>
+	<script type="text/javascript">
+		function test() {
+			// body...
+	
+	if (document.getElementById('name').value=="")
+	 {
+		alert("please fill name field")
+	}	
+		if(document.getElementById('email').value=="")
+		{
+            alert("please fill email field")
+		}
+		if(document.getElementById('pass').value=="")
+		{
+			alert("please fill password field")
+
+		}
+	
+	}
+
+
+	</script>
+</head>
+<body>
+	<form>	
+		<label>UserName</label>
+		<input type="text" name="name" id="name"><br>
+		<label>Email</label>
+		<input type="email" name="email" id="email"><br>
+	    <label>Password</label>
+		<input type="Password" name="Password" id="pass"><br>
+		<button type="submit" onclick="test()">Submit</button>
+	<p id="demo"></p>
+		</form>
+	</body>
+	<script>
+		const x=(x,y)=>x*y;
+		document.getElementById("demo").innerHTML(5,5);
+	</script>
+	</html>
